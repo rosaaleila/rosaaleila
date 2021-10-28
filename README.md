@@ -6,7 +6,7 @@ class SobreMim extends Desenvolvedora {
   curso  = 'Desenvolvimento de Sistemas';
 }
 
-class Skills extends Desenvolvedor {
+class Skills extends Desenvolvedora {
   linguagens  = ['HTML, CSS, Java, Python'];
 }
 ```
