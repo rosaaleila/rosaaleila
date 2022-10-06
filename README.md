@@ -7,6 +7,6 @@ class SobreMim extends Desenvolvedora {
 }
 
 class Skills extends Desenvolvedora {
-  linguagens  = ['HTML, CSS,  JavaScript, Java, Python, PHP, Kotlin'];
+  linguagens  = ['HTML/CSS, JavaScript, Java, Python, PHP, Kotlin, NodeJS, TypeScript, React-Native, ReactJS'];
 }
 ```
