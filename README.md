@@ -1,11 +1,11 @@
-
-<p align="left"> 
-  Full-stack developer graduated in <strong>Systems Development</strong> from SENAI and currently pursuing a <strong>Bachelor's in Computer Science</strong> at São Judas Tadeu University. I enjoy working with agile methodologies and creating responsive and efficient solutions. Always eager to take on new challenges and keep learning.
+<p> 
+  🌻 Full-stack developer graduated in <strong>Systems Development</strong> from SENAI and currently pursuing a <strong>Bachelor's in Computer Science</strong> at São Judas Tadeu University. I enjoy working with agile methodologies and creating responsive and efficient solutions. Always eager to take on new challenges and keep learning.
 </p>
 
-<p align="left">
+<p>
   💼 Skills:
-  <br>
+</p>
+<p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
@@ -18,11 +18,10 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-<p align="left">
-  💌  Feel free to connect with me through any of the platforms below: ⤵️
+<p>
+  💌 Feel free to connect with me through any of the platforms below: ⤵️
 </p>
-
-<p align="left">
+<p>
   <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:leilarosapereira19@gmail" alt="Gmail"/></a>
   <a href="#" title="Outlook">
