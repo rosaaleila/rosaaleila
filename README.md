@@ -22,10 +22,10 @@
   💌 Feel free to connect with me through any of the platforms below: ⤵️
 </p>
 <p>
-  <a href="#" title="Gmail">
+  <a href="mailto:leilarosapereira19@gmail" target="_blank" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:leilarosapereira19@gmail" alt="Gmail"/></a>
-  <a href="#" title="Outlook">
+  <a href="mailto:leila_rosa3@outlook.com" target="_blank" title="Outlook">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:leila_rosa3@outlook.com" alt="Outlook"/></a>
-  <a href="#" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/rosaaleila/" target="_blank" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rosaaleila/" alt="LinkedIn"/></a>
 </p>
