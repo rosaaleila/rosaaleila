@@ -1,4 +1,3 @@
-<img src="spider-man-computer.gif" alt="spiderman punching PC" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Full-stack developer graduated in <strong>Systems Development</strong> from SENAI and currently pursuing a <strong>Bachelor's in Computer Science</strong> at São Judas Tadeu University. I enjoy working with agile methodologies and creating responsive and efficient solutions. Always eager to take on new challenges and keep learning.
